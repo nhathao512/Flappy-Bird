@@ -1,13 +1,13 @@
-# 🎮Game: Flappy Bird
+# Game: Flappy Bird
 
 **Flappy Bird** is a simple, addicting, and challenging one-button game that promises hours of fun and frustration. The objective is straightforward: guide a bird through a series of pipes without hitting any obstacles or falling to the ground.
 
 ---
 
-## 📖 Game Overview
+## Game Overview
 Flappy Bird combines minimalist gameplay mechanics with a test of precision and timing. Despite its simplicity, the game has captivated millions of players worldwide with its challenging and rewarding nature.
 
-### 🎮 How to Play
+### How to Play
 1. **Start the Game**:
    - Open the game and press the start button.
 2. **Control the Bird**:
@@ -22,7 +22,7 @@ Flappy Bird combines minimalist gameplay mechanics with a test of precision and 
 
 ---
 
-## 🎮 Game Features
+## Game Features
 
 - **Addicting Gameplay**: A one-button control scheme that is easy to learn but difficult to master.
 - **Endless Challenge**: The difficulty gradually increases as you progress.
@@ -32,7 +32,7 @@ Flappy Bird combines minimalist gameplay mechanics with a test of precision and 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```plaintext
 .
@@ -47,7 +47,7 @@ Flappy Bird combines minimalist gameplay mechanics with a test of precision and 
 
 ---
 
-## 🔧 Installation and Setup
+## Installation and Setup
 
 1. **Clone the Repository**:
    ```bash
@@ -64,7 +64,7 @@ Flappy Bird combines minimalist gameplay mechanics with a test of precision and 
 
 ---
 
-## 📋 Gameplay Tips
+## Gameplay Tips
 
 - **Tap Rhythmically**: Maintain a steady rhythm to navigate through the pipes effectively.
 - **Anticipate Obstacles**: Look ahead to plan your movements.
@@ -72,7 +72,7 @@ Flappy Bird combines minimalist gameplay mechanics with a test of precision and 
 
 ---
 
-## 🛠️ Development
+## Development
 This game is developed using:
 - **HTML5**: For game structure.
 - **CSS3**: For styling.
@@ -82,14 +82,14 @@ Feel free to contribute by improving code, adding new features, or suggesting id
 
 ---
 
-## 🌟 Acknowledgements
+## Acknowledgements
 Flappy Bird is inspired by the original game created by Dong Nguyen, which became a cultural phenomenon for its simplicity and challenge.
 
 ---
 
-## ⚖️ License
+## License
 This project is licensed under the [License](LICENSE.md).
 
 ---
 
-**Enjoy the challenge and have fun playing Flappy Bird!**
+**Enjoy the challenge and have fun playing Flappy Bird! ❤️**
